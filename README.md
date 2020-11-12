@@ -1,6 +1,9 @@
 # intro_to_prophet
 Repo for...
 
+#### Intro to Prophet (R)
+Getting started with Facebook Prophet’s R API (real data + code) ([Friend link](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7?source=friends_link&sk=6d1b17788f9a23336a190b479b9cd8ec))
+
 #### Cross-Validating Prophet at Scale
 Parallelizing Time Series Cross-Validation and Hyperparameter Optimization with Dask (Applied Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433?source=friends_link&sk=e7b1201491dd528dfa3ad3b9a324518c))
 
